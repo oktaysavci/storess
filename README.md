@@ -1,0 +1,2 @@
+# storess
+Öylesine deneme
